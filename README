@@ -1,0 +1,4 @@
+# All right reserved: Balint Radics <balint.radics@cern.ch>
+#
+# Kalman-filter based code to fit tracks in a cylindrical coordinate system
+# with an inhomogeneous magnetic field
